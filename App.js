@@ -6,6 +6,7 @@ import TaskList from './src/components/TaskList';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as Animatable from 'react-native-animatable';
 
+//teste
 
 const AnimatedBtn = Animatable.createAnimatableComponent(TouchableOpacity);
 
